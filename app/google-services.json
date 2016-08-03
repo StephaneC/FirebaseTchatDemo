@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "860047336052",
+    "firebase_url": "https://fir-tchatdemo.firebaseio.com",
+    "project_id": "fir-tchatdemo",
+    "storage_bucket": "fir-tchatdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860047336052:android:922596bb07b625f4",
+        "android_client_info": {
+          "package_name": "stephane.castrec.firebasetchatdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860047336052-70vca49k5h2f36v8aido3c4hrfr54g8v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "stephane.castrec.firebasetchatdemo",
+            "certificate_hash": "919888D52BCA079D340CCC42F0CF83EF0427DFA3"
+          }
+        },
+        {
+          "client_id": "860047336052-odiffnqqnb0dskqqg75ic3tb6lgek8pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB68W2KijVN0SCoM0w8ZXzI6RpLq7FTbTA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860047336052-odiffnqqnb0dskqqg75ic3tb6lgek8pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

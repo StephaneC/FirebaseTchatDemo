@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseTchatDemo</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_out">Sign out</string>
+    <string name="invite_menu_label">Invite</string>
+    <string name="cause_crash">Crash</string>
+</resources>
